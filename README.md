@@ -74,9 +74,3 @@ To close all producers or by id:
 
 (prod/close producer-id)
 ```
-
-
-
-## License
-
-MIT License
