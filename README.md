@@ -74,3 +74,10 @@ To close all producers or by id:
 
 (prod/close producer-id)
 ```
+## License
+Copyright © 2022 Nicolò Ciaraldi
+
+Distributed under the MIT Public License
+
+
+
